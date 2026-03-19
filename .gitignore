@@ -1,0 +1,6 @@
+node_modules
+blog.db
+.env
+.DS_Store
+.vscode
+*.log
